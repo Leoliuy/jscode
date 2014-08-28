@@ -5,4 +5,4 @@ Git tracks changes of files.
 Creating a new branch is quick AND simple.
 brach manager.
 bug abranch.
-try flict
+try aflict
