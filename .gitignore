@@ -1,4 +1,5 @@
 # Python:
+*.py
 *.py[cod]
 *.so
 *.egg
