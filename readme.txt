@@ -6,3 +6,4 @@ Creating a new branch is quick AND simple.
 brach manager.
 bug abranch.
 try bflict
+try aflict
